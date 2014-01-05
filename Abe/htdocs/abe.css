@@ -1,5 +1,6 @@
 body {
   background: #014479 url('/nyanchain.png') center repeat;
+  background-size: 891px 504px;
   font-size: 15px;
   padding: 20px;
 }
