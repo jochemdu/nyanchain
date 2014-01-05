@@ -56,8 +56,8 @@ CONFIG_DEFAULTS = {
 WORK_BITS = 304  # XXX more than necessary.
 
 CHAIN_CONFIG = [
-    {"chain":"Catcoin",
-     "code3":"CAT", "address_version":"\x15", "magic":"\xfc\xc1\xb7\xdc"},
+    {"chain":"Nyancoin",
+     "code3":"NYA", "address_version":"\x15", "magic":"\xfc\xc1\xb7\xdc"},
     ]
 
 NULL_HASH = "\0" * 32
